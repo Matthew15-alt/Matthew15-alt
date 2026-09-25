@@ -11,7 +11,7 @@
 
 ### Languages
 
-- JavaScript
+- Python
 
 ### Frameworks & Libraries
 
